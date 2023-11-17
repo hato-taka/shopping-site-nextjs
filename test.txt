@@ -1,1 +1,13 @@
 test
+
+git
+node.js
+のインストール
+
+【gitの操作】
+git add .
+git commit -m "メッセージ"
+git push
+
+nextのインストール方法を調べる
+
