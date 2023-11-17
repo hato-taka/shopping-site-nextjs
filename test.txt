@@ -11,3 +11,10 @@ git push
 
 nextのインストール方法を調べる
 
+【Next.jsのインストール】
+sudo npx create-next-app
+
+【ローカルサーバーの立ち上げ】
+npm run dev
+
+permissionみたいなエラーがでたら、とりあえず、sudo試してみて下さい
